@@ -8,5 +8,7 @@ A self-ordering kiosk app for Jollibee, built with Python and Tkinter.
 - Generates a receipt
 
 ## How to run
+```bash
 pip install pillow requests
 python jabi.py
+```
